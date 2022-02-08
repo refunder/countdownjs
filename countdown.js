@@ -1355,3 +1355,5 @@ function() {
 	return countdown;
 
 })();
+
+export default countdown;
